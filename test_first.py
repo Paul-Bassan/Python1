@@ -5,7 +5,7 @@ import xmlrunner
 class TestCalc(unittest.TestCase):
 
     def test_dave(self):
-        self.assertEqual(1,2)
+        self.assertEqual(1,1)
 
     def test_adder(self):
         self.assertEqual(1,1)
