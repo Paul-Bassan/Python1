@@ -11,7 +11,7 @@ class TestCalc(unittest.TestCase):
         self.assertEqual(1,1)
 
     def test_sub1(self):
-        self.assertEqual(3,3)
+        self.assertEqual(3,4)
 
 if __name__ == '__main__':
     #unittest.main()
